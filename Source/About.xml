@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[1.0]Forsaken planet</name>
+  <author>AllyJamy</author>
+  <description>
+  
+  Updated to version 1.0
+  
+  Back at it again with another world recolour.
+  (should be compatiable with saves, this mod only changes textures after all)
+  
+  This is a home planet of the forsaken. 
+  
+  Intended for use with the forsaken mod, but you can use it without it too if you want
+  
+  -Most biomes are changed to a more yellowish colour.
+  -The planet map has been recoloured to match the biome change. 
+
+ For those who are want a more vibrant "alien" enviroment.
+ 
+ Works well with Makaru's "Fertile planet" mod. 
+  
+  </description>
+  <targetVersion>1.0.2059</targetVersion>
+</ModMetaData>
