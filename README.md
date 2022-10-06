@@ -1,14 +1,14 @@
 # ForsakenPlanet
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of AllyJamys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1544699249
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 IMPORTANT: I won't be updating this mod anymore. Anyone is welcome to update it and reupload it if credit is given.
 
@@ -32,7 +32,7 @@ IMPORTANT: I won't be updating this mod anymore. Anyone is welcome to update it 
  
  Works well with Makaru's "Fertile planet" mod.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -42,6 +42,7 @@ IMPORTANT: I won't be updating this mod anymore. Anyone is welcome to update it 
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
