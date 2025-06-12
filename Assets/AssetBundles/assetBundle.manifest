@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3490984070
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f72acd997477b7a5dd47c905139dad5e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f72acd997477b7a5dd47c905139dad5e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeOak/TreeOak_LeaflessA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/Tundra.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeWillow/TreeWillowB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeDrago/TreeDragoA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeCypress/TreeCypressB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeBirch/TreeBirchA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/ShrubLow/ShrubLowA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeMaple/TreeMapleA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Chokevine/ChokevineA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/TemperateForest.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/TropicalSwamp.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Grass/GrassA_Leafless.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeOak/TreeOakB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/ShrubLow/ShrubLowB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/AridShrubland.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/BerryPlant/BerryPlant_ImmatureA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Alocasia/AlocasiaB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreePoplar/TreePoplarA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/Desert.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Brambles/Brambles_LeaflessA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/BerryPlant/BerryPlantA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Terrain/Surfaces/WaterShallow.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Chokevine/Chokevine_LeaflessA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeBamboo/TreeBambooA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeOak/TreeOakA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Alocasia/AlocasiaA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeMaple/TreeMapleB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeCypress/TreeCypressA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeCecropia/TreeCecropiaA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/TropicalRainforest.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Brambles/BramblesA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeTeak/TreeTeakB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/BorealForest.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeBirch/TreeBirchA_Leafless.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeTeak/TreeTeakA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Terrain/Surfaces/WaterDeep.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Grass/GrassA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreePalm/TreePalmA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/ExtremeDesert.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeWillow/TreeWillowA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Bush/BushA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Grass/GrassB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/ColdBog.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Bush/Bush_LeaflessB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/Ocean.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeMaple/TreeMaple_LeaflessA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeWillow/TreeWillow_LeaflessA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreeOak/TreeOak_LeaflessB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/TreePine/TreePineA.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Alocasia/Alocasia_Leafless.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Bush/BushB.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/World/Biomes/TemperateSwamp.png
+- Assets/Data/Mlie.ForsakenPlanet/Textures/Things/Plant/Bush/Bush_LeaflessA.png
+Dependencies: []
